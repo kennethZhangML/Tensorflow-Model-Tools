@@ -1,2 +1,4 @@
 # Tensorflow Model Tools
-A repository of model training, fine-tuning, and visualization tools for TensorFlow
+A repository of model training, fine-tuning, and visualization tools for TensorFlow.
+
+## ** Still under development ** 
